@@ -15,17 +15,17 @@ website: www.github.com/OoStellarnightoO
 darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: ben_mars56
+github_username:  OoStellarnightoO
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jameswgrant
+linkedin_username: benjamin-tan-analystsg
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
@@ -48,9 +48,12 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile pic_github.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  Benjamin here. Happy for you to visit. Currently a Trade Officer with the Ministry of Trade and Industry. My main portfolio is Saudi Arabia and the Gulf Cooperation Council.
+  I like to constantly explore new avenues of knowledge and am willing to take risks to jump into new areas. Currently looking to enter the pentesting/red teaming world and though my previous work experience is of relevance towards threat intelligence. 
+  Taking pentesting courses from TCM Academy with the aim of taking the PNPT certification by early next year. 
+  I have taken courses on python and javascript though it has been sometime since i used both.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  # I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
@@ -76,15 +79,18 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Ministry of Trade and Industry, Singapore
+        link: https://www.mti.gov.sg/
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        sub_title: Senior Assistant Director
+        caption: November 2022 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+          Advancing Bilateral Trade and Economic ties between Singapore and the Middle East
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            I am the main officer in charge engaging Saudi Arabia to enhance bilateral trade and economic ties. During my one year, the 3rd Saudi Arabia-Singapore Joint Committee was successfully held in Riyadh in October 2023 with seven MOUs signed. This was possible due to me and my team's consistent
+            engagement of our Saudi counterparts throughout the year and working across with other stakeholders such as EnterpriseSG. I was also the staff officer in charge of staffing the Minister for various foreign delegation visits from Saudi Minister of Commerce, Dr Majid Al Qasabi to Oman's Minister
+            of commerce, industry and investment promotion, Qais Al Yousef. Aside from the above, I have also planned two working level visits to Saudi Arabia in 2023 which involved sorting out the logistics, accomodations, brief generation for principals and direct engagement of Saudi government and private 
+            entities. Aside from the above, I have also participated as a staff officer to the Minister of State during then President Halimah Yacob's state visit to Qatar in June 2023. 
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
