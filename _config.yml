@@ -58,8 +58,8 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: New Projects Cooking
+        link: github.com/OoStellarnightoO
         # link_text: Project Website
         additional_links:
           - title:  sproogen/modern-resume-theme
@@ -69,9 +69,9 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          Basic Apps to practice my Python and Rust Skills
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          I will be developing a simple python/rust based tool to run checks against low-hanging fruits such as readable etc/shadow, elevated privileges etc. Akan Datang as I have been very busy with my main job for the last six months but now with a bit of time, I am going full steam. 
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
