@@ -50,8 +50,13 @@ about_profile_image: images/profile pic_github.png
 about_content: | # this will include new lines to allow paragraphs
   Benjamin here. Happy for you to visit. Currently a Trade Officer with the Ministry of Trade and Industry. My main portfolio is Saudi Arabia and the Gulf Cooperation Council.
   I like to constantly explore new avenues of knowledge and am willing to take risks to jump into new areas. Currently looking to enter the pentesting/red teaming world. Am also open to exploring OSINT and Threat Intelligence paths given my intelligence background.
+
+  
   Taking pentesting courses from TCM Academy with the aim of taking the PNPT certification by early next year. 
   I have taken courses on python and javascript though it has been sometime since i used both.
+
+
+  Starting a personal pet project next year where I hope to do deep research into the Japanese Occupation of Singapore with a specific focus on the human experience from both the Japanese soldier and the local citizenry and trying to understand what would drive someone to be an informant and betray their own people
 
 content:
   - title: Projects # Title for the section
@@ -116,21 +121,25 @@ content:
         quote: >
           Studied something that I was good at which was economics but my true love was always history....
         description: | # this will include new lines to allow paragraphs
+          I tried Economics as a subject back in Junior College, didnt like it and opt out of it after the first three months. University Economics was different. It was a lot more mathematical and statistical. While I didnt like the whole idea of the selfish individual that underpins most of economic theory, 
+          I did like playing with numbers and solving problems. While not doing calculus and solving mathematical sums, I took side modules on European History, Geopolitics, Sociology, and languages such as Bahasa Indonesia, Japanese and French.
           
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          Inspired by what I discovered during my European History Module and Dan Carlin's Blueprint for Armageddon podcast, I took a semester exchange in late 2014 to Paris where i studied at Science Politique Paris. I took the time to travel on a shoe string budget such places as London, Berlin, Warsaw, Krakow, Vilnius and cities in Italy.
+
+
+          I also did four years in the Guitar Ensemble of the National University of Singapore where I was Logistics Manager from 2013 to 2014 and a Section Leader in my final year. I entered not being able to sheet music and exited being able to sight read. I played in multiple concerts as part of the Ensemble and stage fright aint a fright anymore.
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - Long Distance Cycling
+      - Gaming (Civlization Series, XCOM, RPGs)
+      - Reading (Books on European, South East Asian, Japanese History are always great, I devour Military History books and in recent times been reading up on OSINT books)
+      - Travelling and visiting museums and having good food
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+
 
 # Footer
 footer_show_references: true
