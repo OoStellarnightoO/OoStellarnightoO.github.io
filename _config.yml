@@ -102,14 +102,8 @@ content:
         quote: >
           Watchful Vigilance against Fundamental Surprises
         description: | # this will include new lines to allow paragraphs
-            I served as a Senior Military Intelligence Expert in the Digital and Intelligence Service (DIS), specialising in Imagery and all-Source Intelligence. |
-
-            In my career in DIS, I have served as an Analyst Officer, a Branch 2IC, and Officer Commanding. I have led a team of 20 odd soldiers for current operations and delivered routine presentations and briefs to principals to apprise them of the current intelligence situation picture.
-            I have experience in all components of the Intelligence cycle from tasking, collection, processing, exploitation and dissemination. |
-
-            I have also gestated and delivered on multiple capability development projects and worked with stakeholders such as DSTA and foreign vendors. |
-
-            I have won several accolades during my time which included the best trainee for the Military Domain Expertise Course, Distinguished Graduate for the Tri-Service Warfighter Course and was one of the top performers under the Joint Intelligence Command. |
+            I served as a Senior Military Intelligence Expert in the Digital and Intelligence Service (DIS), specialising in Imagery and all-Source Intelligence. |In my career in DIS, I have served as an Analyst Officer, a Branch 2IC, and Officer Commanding. I have led a team of 20 odd soldiers for current operations and delivered routine presentations and briefs to principals to apprise them of the current intelligence situation picture.
+            I have experience in all components of the Intelligence cycle from tasking, collection, processing, exploitation and dissemination. | I have also gestated and delivered on multiple capability development projects and worked with stakeholders such as DSTA and foreign vendors. | I have won several accolades during my time which included the best trainee for the Military Domain Expertise Course, Distinguished Graduate for the Tri-Service Warfighter Course and was one of the top performers under the Joint Intelligence Command. |
             I have chosen to leave the SAF despite a promising career as I wanted to further challenge myself in a new area so that I can be the best that I can be.
 
   - title: Education # Title for the section
@@ -120,9 +114,9 @@ content:
         caption: 2011 - 2015
         sub_title: BSc of Social Sciences (Economics), Second Upper Class Honours
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          Studied something that I was good at which was economics but my true love was always history....
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career su
+          
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
