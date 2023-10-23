@@ -50,6 +50,8 @@ about_profile_image: images/profile pic_github.png
 about_content: | # this will include new lines to allow paragraphs
   Benjamin here. Happy for you to visit. Currently a Trade Officer with the Ministry of Trade and Industry. My main portfolio is Saudi Arabia and the Gulf Cooperation Council.
   I like to constantly explore new avenues of knowledge and am willing to take risks to jump into new areas. Currently looking to enter the pentesting/red teaming world. Am also open to exploring OSINT and Threat Intelligence paths given my intelligence background.
+  What motivates me is the desire to learn about the TTPs of the bad actors scamming innocent people, and to defend against these threats through education and demonstration of these TTPs to the general public so that they can understand the threat landscape that they face.
+  Plus honestly hacking is fun and nothing brings greater joy to me than pwning a machine.
 
   
   Taking pentesting courses from TCM Academy with the aim of taking the PNPT certification by early next year. 
@@ -128,13 +130,13 @@ content:
           Studied something that I was good at which was economics but my true love was always history....
         description: | # this will include new lines to allow paragraphs
           I tried Economics as a subject back in Junior College, didnt like it and opt out of it after the first three months. University Economics was different. It was a lot more mathematical and statistical. While I didnt like the whole idea of the selfish individual that underpins most of economic theory, 
-          I did like playing with numbers and solving problems. While not doing calculus and solving mathematical sums, I took side modules on European History, Geopolitics, Sociology, and languages such as Bahasa Indonesia, Japanese and French.
+          I did like playing with numbers and solving problems. While not doing calculus and solving mathematical sums, I took side modules on European History, Geopolitics, Sociology, and languages such as Bahasa Indonesia, Japanese and French. I can speak decent Bahasa Indonesian.
           
 
-          Inspired by what I discovered during my European History Module and Dan Carlin's Blueprint for Armageddon podcast, I took a semester exchange in late 2014 to Paris where i studied at Science Politique Paris. I took the time to travel on a shoe string budget such places as London, Berlin, Warsaw, Krakow, Vilnius and cities in Italy.
+          Inspired by what I learnt during my European History module and Dan Carlin's Blueprint for Armageddon podcast, I took a semester exchange in late 2014 to Paris where i studied at Science Politique Paris. I took the time to travel on a shoe string budget to such places as London, Berlin, Warsaw, Krakow, Vilnius and cities in Italy.
 
 
-          I also did four years in the Guitar Ensemble of the National University of Singapore where I was Logistics Manager from 2013 to 2014 and a Section Leader in my final year. I entered not being able to sheet music and exited being able to sight read. I played in multiple concerts as part of the Ensemble and stage fright aint a fright anymore.
+          I also spent four years in the Guitar Ensemble of the National University of Singapore where I was Logistics Manager from 2013 to 2014 and a Section Leader in my final year. I entered not being able to read sheet music and exited being able to sight read. I played in multiple concerts as part of the Ensemble and stage fright aint a fright anymore.
 
   - title: A Little More About Me
     layout: text
